@@ -1,3 +1,6 @@
+This is a simple DDoS python botnet script with remote monitoring & management.
+
+
 # Server-Commands
 ```
 attack udp <ip> <port> <time in second> <thread>
@@ -7,4 +10,3 @@ Options:
 	list			Show online servers
 	update			To update the clients list
 	exit or quit 	For quiting/exiting
-
